@@ -3,7 +3,7 @@ This repo contains Trial Version of Let's Search Images Android application. For
 
 Features:
 
-- Text Search: Search text inside your documents (Word, PowerPoint, Excel, PDF, TXT) and photos
+- Text Search: Search text inside your documents and photos (Word, PowerPoint, Excel, PDF, TXT, PNG, BMP, JPG,..). 
 - Label Search: Search document and image by its label
 - Image Search: Search image by its category
 - Smart Album: Help organize photos on your phone automatically.
