@@ -8,7 +8,7 @@ Features:
 - Image Search: Search image by its category
 - Smart Album: Help organize photos on your phone automatically.
 - Built-in Toolbox: Search Highlight, Bookmark, Label, Dictionary, Sharing
-- Image Server: Browse and search for images on your PC (Window, MacOS, Ubuntu)
+- Document and Image Server: Browse and search for documents and images on your PC (Window, MacOS, Ubuntu)
 - Support multiple search languages: Latin, 中文, 日本語, 한국어, Devanagari
 
 
@@ -29,7 +29,7 @@ We have built-in Toolbox to help you manipulate your search result conveniently.
 - Dictionary: We have built-in dictionary that supports hundred of different languages so that you can translate your search content easily.
 - Sharing: You can share text and image content to your friends easily.
 
-With our app, you can even browse and search for images on your PC the same way that you do on your mobile. Window, MacOS and Ubuntu are supported. You just need to download our free PC supporting app, then connect the mobile app with the PC app. You can connect multiple mobile apps with one PC app. This feature is very useful if you or your family or your company has an image server data. You can share your images on the server so that many people can access at the same time.
+With our app, you can even browse and search for documents and images on your PC the same way that you do on your mobile. Window, MacOS and Ubuntu are supported. You just need to download our free PC supporting app, then connect the mobile app with the PC app. You can connect multiple mobile apps with one PC app. This feature is very useful if you or your family or your company has an image server data. You can share your images on the server so that many people can access at the same time.
 
 Our supported search languages:
 
